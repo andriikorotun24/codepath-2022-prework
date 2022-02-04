@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://gifyu.com/image/SzLMN' title='Prework ios' width='' alt='Prework ios' />
+<img src='https://media.giphy.com/media/p770dIKvYeCyp6xDuf/giphy.gif' title='Prework ios' width='' alt='Prework ios' />
 
 GIF created with [Kap](https://getkap.co/).
 
