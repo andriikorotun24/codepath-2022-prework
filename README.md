@@ -2,7 +2,7 @@
 
 **Tippy* is a tip calculator application for iOS.
 
-Submitted by: **Andrii Korotun*
+Submitted by: *Andrii Korotun*
 
 Time spent: **7** hours spent in total
 
@@ -34,11 +34,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had several long debugging sessions, mostly figuring out how everything connects, how to create a slider feature. I also had a particularly nasty problem with tipPercentages values, I fixed it only by redoing all the steps to make sure I got it right and they are showing up. 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [AnKor Ltd]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
